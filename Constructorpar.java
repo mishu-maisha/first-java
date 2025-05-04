@@ -3,7 +3,7 @@ class Student{
   public int id;
 
   public Student(String name, int id){
-    this. name=name;//need to use this operator otherwise it will call reference var 
+    this.name=name;//need to use this operator otherwise it will call reference var 
     this.id =id;
   }
   public void print(){
